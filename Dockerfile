@@ -24,7 +24,6 @@ RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local
 #             php artisan key:generate && \
 #             php artisan config:cache
 
-
 RUN ln -s public html
 
 #RUN usermod -u 1000 www-data
