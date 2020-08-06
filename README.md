@@ -5,7 +5,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-<a href="https://hub.docker.com/repository/docker/scademir/laravel-desafio"> alt="docker-laravel"</a>
+<br>
+<br>
+<a href="https://hub.docker.com/repository/docker/scademir/codeeducation">>>>>>>>>>>>>> Aqui a imagem Code Education <<<<<<<<<<<<<<<<</a>
 </p>
 
 ## About Laravel
